@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="13" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-15T00:00:10 MST" name="TutorialsNinja Automation Suite" finished-at="2023-09-15T00:01:50 MST" duration-ms="99322">
+    <groups>
+    </groups>
+    <test started-at="2023-09-15T00:00:10 MST" name="TutorialsNinja Tests" finished-at="2023-09-15T00:01:50 MST" duration-ms="99322">
+      <class name="com.tuitorialninja.qa.testcases.Search">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tuitorialninja.qa.testcases.Search@55b0dcab]" started-at="2023-09-15T00:01:33 MST" name="setup" finished-at="2023-09-15T00:01:37 MST" duration-ms="4456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchWithValidProduct()[pri:1, instance:com.tuitorialninja.qa.testcases.Search@55b0dcab]" started-at="2023-09-15T00:01:37 MST" name="verifySearchWithValidProduct" finished-at="2023-09-15T00:01:38 MST" duration-ms="700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithValidProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tuitorialninja.qa.testcases.Search@55b0dcab]" started-at="2023-09-15T00:01:38 MST" name="tearDown" finished-at="2023-09-15T00:01:38 MST" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tuitorialninja.qa.testcases.Search@55b0dcab]" started-at="2023-09-15T00:01:38 MST" name="setup" finished-at="2023-09-15T00:01:43 MST" duration-ms="5261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchWithInvalidProduct()[pri:2, instance:com.tuitorialninja.qa.testcases.Search@55b0dcab]" started-at="2023-09-15T00:01:43 MST" name="verifySearchWithInvalidProduct" finished-at="2023-09-15T00:01:44 MST" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithInvalidProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tuitorialninja.qa.testcases.Search@55b0dcab]" started-at="2023-09-15T00:01:44 MST" name="tearDown" finished-at="2023-09-15T00:01:44 MST" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tuitorialninja.qa.testcases.Search@55b0dcab]" started-at="2023-09-15T00:01:44 MST" name="setup" finished-at="2023-09-15T00:01:49 MST" duration-ms="5157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchWithoutAnyProduct()[pri:3, instance:com.tuitorialninja.qa.testcases.Search@55b0dcab]" started-at="2023-09-15T00:01:49 MST" name="verifySearchWithoutAnyProduct" finished-at="2023-09-15T00:01:50 MST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithoutAnyProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tuitorialninja.qa.testcases.Search@55b0dcab]" started-at="2023-09-15T00:01:50 MST" name="tearDown" finished-at="2023-09-15T00:01:50 MST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tuitorialninja.qa.testcases.Search -->
+      <class name="com.tuitorialninja.qa.testcases.Register">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tuitorialninja.qa.testcases.Register@7c6908d7]" started-at="2023-09-15T00:00:11 MST" name="setup" finished-at="2023-09-15T00:00:18 MST" duration-ms="6980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegisteringAnAccountWithMandatoryFields()[pri:1, instance:com.tuitorialninja.qa.testcases.Register@7c6908d7]" started-at="2023-09-15T00:00:18 MST" name="verifyRegisteringAnAccountWithMandatoryFields" finished-at="2023-09-15T00:00:19 MST" duration-ms="1132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAnAccountWithMandatoryFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tuitorialninja.qa.testcases.Register@7c6908d7]" started-at="2023-09-15T00:00:19 MST" name="tearDown" finished-at="2023-09-15T00:00:19 MST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tuitorialninja.qa.testcases.Register@7c6908d7]" started-at="2023-09-15T00:00:19 MST" name="setup" finished-at="2023-09-15T00:00:25 MST" duration-ms="5639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegisteringAnAccountByProvidingAllFields()[pri:2, instance:com.tuitorialninja.qa.testcases.Register@7c6908d7]" started-at="2023-09-15T00:00:25 MST" name="verifyRegisteringAnAccountByProvidingAllFields" finished-at="2023-09-15T00:00:26 MST" duration-ms="1109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAnAccountByProvidingAllFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tuitorialninja.qa.testcases.Register@7c6908d7]" started-at="2023-09-15T00:00:26 MST" name="tearDown" finished-at="2023-09-15T00:00:26 MST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tuitorialninja.qa.testcases.Register@7c6908d7]" started-at="2023-09-15T00:00:26 MST" name="setup" finished-at="2023-09-15T00:00:32 MST" duration-ms="5716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegesteringAccountWithExistingEmailAddress()[pri:3, instance:com.tuitorialninja.qa.testcases.Register@7c6908d7]" started-at="2023-09-15T00:00:32 MST" name="verifyRegesteringAccountWithExistingEmailAddress" finished-at="2023-09-15T00:00:32 MST" duration-ms="782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegesteringAccountWithExistingEmailAddress -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tuitorialninja.qa.testcases.Register@7c6908d7]" started-at="2023-09-15T00:00:32 MST" name="tearDown" finished-at="2023-09-15T00:00:33 MST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tuitorialninja.qa.testcases.Register@7c6908d7]" started-at="2023-09-15T00:00:33 MST" name="setup" finished-at="2023-09-15T00:00:38 MST" duration-ms="5610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegisteringAnAccountWithoutProvidingFillingAnyDetails()[pri:4, instance:com.tuitorialninja.qa.testcases.Register@7c6908d7]" started-at="2023-09-15T00:00:38 MST" name="verifyRegisteringAnAccountWithoutProvidingFillingAnyDetails" finished-at="2023-09-15T00:00:39 MST" duration-ms="435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAnAccountWithoutProvidingFillingAnyDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tuitorialninja.qa.testcases.Register@7c6908d7]" started-at="2023-09-15T00:00:39 MST" name="tearDown" finished-at="2023-09-15T00:00:39 MST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tuitorialninja.qa.testcases.Register -->
+      <class name="com.tuitorialninja.qa.testcases.Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:00:39 MST" name="setup" finished-at="2023-09-15T00:00:44 MST" duration-ms="5173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:00:44 MST" name="verifyLoginWithValidCredentials" data-provider="validCredentialsSupplier" finished-at="2023-09-15T00:00:45 MST" duration-ms="815" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[asif.cooldude003@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:00:45 MST" name="tearDown" finished-at="2023-09-15T00:00:45 MST" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:00:45 MST" name="setup" finished-at="2023-09-15T00:00:51 MST" duration-ms="5433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:00:51 MST" name="verifyLoginWithValidCredentials" data-provider="validCredentialsSupplier" finished-at="2023-09-15T00:00:52 MST" duration-ms="827" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[asif.cooldude001@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:00:52 MST" name="tearDown" finished-at="2023-09-15T00:00:52 MST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:00:52 MST" name="setup" finished-at="2023-09-15T00:00:57 MST" duration-ms="5346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:00:57 MST" name="verifyLoginWithValidCredentials" data-provider="validCredentialsSupplier" finished-at="2023-09-15T00:01:08 MST" duration-ms="10586" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[asif.cooldude009@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"link text","selector":"Edit your account information"}
+  (Session info: chrome=116.0.5845.189)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.0', revision: '249f2a7d1b*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7216c59e5e7f32cac5cf9c9bc87026ac, findElement {using=link text, value=Edit your account information}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.189, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\asifc\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56727}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56727/devtoo..., se:cdpVersion: 116.0.5845.189, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7216c59e5e7f32cac5cf9c9bc87026ac]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Edit your account information"}
+  (Session info: chrome=116.0.5845.189)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.0', revision: '249f2a7d1b*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7216c59e5e7f32cac5cf9c9bc87026ac, findElement {using=link text, value=Edit your account information}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.189, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\asifc\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56727}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56727/devtoo..., se:cdpVersion: 116.0.5845.189, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7216c59e5e7f32cac5cf9c9bc87026ac
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy18.isDisplayed(Unknown Source)
+at com.tutorialsninja.qa.pages.AccountPage.getDisplayStatusOfEditYourAccountInformation(AccountPage.java:21)
+at com.tuitorialninja.qa.testcases.Login.verifyLoginWithValidCredentials(Login.java:44)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:01:08 MST" name="tearDown" finished-at="2023-09-15T00:01:08 MST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:01:08 MST" name="setup" finished-at="2023-09-15T00:01:14 MST" duration-ms="5698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInvalidCredentials()[pri:2, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:01:14 MST" name="verifyLoginWithInvalidCredentials" finished-at="2023-09-15T00:01:14 MST" duration-ms="568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:01:14 MST" name="tearDown" finished-at="2023-09-15T00:01:15 MST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:01:15 MST" name="setup" finished-at="2023-09-15T00:01:20 MST" duration-ms="5393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInvalidEmailAndValidPassword()[pri:3, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:01:20 MST" name="verifyLoginWithInvalidEmailAndValidPassword" finished-at="2023-09-15T00:01:21 MST" duration-ms="568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidEmailAndValidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:01:21 MST" name="tearDown" finished-at="2023-09-15T00:01:21 MST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:01:21 MST" name="setup" finished-at="2023-09-15T00:01:26 MST" duration-ms="5443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidEmailAndInvalidPassword()[pri:4, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:01:26 MST" name="verifyLoginWithValidEmailAndInvalidPassword" finished-at="2023-09-15T00:01:27 MST" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidEmailAndInvalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:01:27 MST" name="tearDown" finished-at="2023-09-15T00:01:27 MST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:01:27 MST" name="setup" finished-at="2023-09-15T00:01:32 MST" duration-ms="5219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithoutProvidingCredentials()[pri:5, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:01:32 MST" name="verifyLoginWithoutProvidingCredentials" finished-at="2023-09-15T00:01:33 MST" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithoutProvidingCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tuitorialninja.qa.testcases.Login@131ef10]" started-at="2023-09-15T00:01:33 MST" name="tearDown" finished-at="2023-09-15T00:01:33 MST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tuitorialninja.qa.testcases.Login -->
+    </test> <!-- TutorialsNinja Tests -->
+  </suite> <!-- TutorialsNinja Automation Suite -->
+</testng-results>
